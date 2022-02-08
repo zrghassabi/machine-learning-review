@@ -10,8 +10,6 @@ A Machine Learning project steps in python:
 
 3-Create 6 machine learning models, pick the best and build confidence that the accuracy is reliable.
 
-Libraries you need:
-
-scipy, numpy, matplotlib, pandas, sklearn
+Libraries you need: scipy, numpy, matplotlib, pandas, sklearn
 
 
