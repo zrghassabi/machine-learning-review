@@ -1,5 +1,7 @@
 # machine-learning-review
 
+a) Machin_learning model:
+
 Inspired by https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 A Machine Learning project steps in python: 
@@ -12,4 +14,8 @@ A Machine Learning project steps in python:
 
 Libraries you need: scipy, numpy, matplotlib, pandas, sklearn
 
+
+b)K-means clustering from a scratch
+  
+  
 
