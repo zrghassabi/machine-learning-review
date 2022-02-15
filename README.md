@@ -15,7 +15,7 @@ A Machine Learning project steps in python:
 Libraries you need: scipy, numpy, matplotlib, pandas, sklearn
 
 
-b)K-means clustering from a scratch
+
   
   
 
