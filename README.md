@@ -16,6 +16,8 @@ Libraries you need: scipy, numpy, matplotlib, pandas, sklearn
 
 
 
-  
+machine learning projects
+
+https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
   
 
