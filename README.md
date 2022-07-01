@@ -22,7 +22,7 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
   
 
 
-Salary Prediction
+b) Salary Prediction
 
 Linear regresseion
 Other regression models:
@@ -41,3 +41,6 @@ https://towardsdatascience.com/creating-regression-models-to-predict-data-respon
 
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
+
+
+c) K-means
